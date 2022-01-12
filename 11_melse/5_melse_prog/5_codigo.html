@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="module" src="/js/config.js"></script>
+  <link rel="icon" sizes="32x32" href="/favicon.ico">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="stylesheet" href="/css/estilos.css">
+  <script type="module" src="/lib/muestra-codigo.js"></script>
+</head>
+<body>
+  <layout-cajon>
+    <mi-nav slot="nav"></mi-nav>
+    <h1>Código</h1>
+    <muestra-codigo>
+      <div>
+        <div><span style="color: #0000ff;">const</span>&nbsp;<span
+            style="color: #0070c1;">cons</span>&nbsp;=</div>
+        <div>&nbsp;&nbsp;<span style="color: #795e26;">require</span>(<span
+            style="color: #a31515;">"readline-sync"</span>);</div>
+        <div><span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #a31515;">"Recomiendo&nbsp;artistas"</span>,</div>
+        <div>&nbsp;&nbsp;<span
+            style="color: #a31515;">"por&nbsp;género."</span>);</div>
+        <div><span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #a31515;">"Selecciona:"</span>);</div>
+        <div><span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #a31515;">"1&nbsp;Pop"</span>);</div>
+        <div><span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #a31515;">"2&nbsp;Reguetón"</span>);</div>
+        <div><span style="color: #0000ff;">const</span>&nbsp;<span
+            style="color: #0070c1;">respuesta</span>&nbsp;=&nbsp;<span
+            style="color: #001080;">cons</span>.<span
+            style="color: #795e26;">question</span>(</div>
+        <div>&nbsp;&nbsp;<span
+            style="color: #a31515;">"Introduce&nbsp;número:&nbsp;"</span>);
+        </div>
+        <div><span style="color: #af00db;">if</span>&nbsp;(<span
+            style="color: #0070c1;">respuesta</span>&nbsp;===&nbsp;<span
+            style="color: #a31515;">"1"</span>)&nbsp;{</div>
+        <div>&nbsp;&nbsp;<span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #a31515;">"Ariana&nbsp;Grande."</span>);</div>
+        <div>}&nbsp;<span style="color: #af00db;">else</span>&nbsp;<span
+            style="color: #af00db;">if</span>&nbsp;(<span
+            style="color: #0070c1;">respuesta</span>&nbsp;===&nbsp;<span
+            style="color: #a31515;">"2"</span>)&nbsp;{</div>
+        <div>&nbsp;&nbsp;<span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #a31515;">"Bad&nbsp;Bunny."</span>);</div>
+        <div>}&nbsp;<span style="color: #af00db;">else</span>&nbsp;{</div>
+        <div>&nbsp;&nbsp;<span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(</div>
+        <div>&nbsp;&nbsp;&nbsp;&nbsp;<span
+            style="color: #a31515;">"Opción&nbsp;incorrecta"</span>);</div>
+        <div>}</div>
+        <div><span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #a31515;">"Adios."</span>);</div>
+      </div>
+    </muestra-codigo>
+    <div class="lectura">
+      <p>
+        <a href="https://replit.com/@GilbertoPachec1/melseprog?v=1"
+          target="_blank">Pruébalo en Replit</a>
+      </p>
+    </div>
+    <mi-footer></mi-footer>
+  </layout-cajon>
+</body>
+</html>

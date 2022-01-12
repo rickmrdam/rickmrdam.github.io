@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="module" src="/js/config.js"></script>
+  <link rel="icon" sizes="32x32" href="/favicon.ico">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="stylesheet" href="/css/estilos.css">
+  <script type="module" src="/lib/muestra-codigo.js"></script>
+</head>
+<body>
+  <layout-cajon>
+    <mi-nav slot="nav"></mi-nav>
+    <h1>Código</h1>
+    <muestra-codigo>
+      <div>
+        <div><span
+            style="color: #008000;">/*&nbsp;En&nbsp;Power&nbsp;Shell&nbsp;introduce&nbsp;antes</span>
+        </div>
+        <div><span style="color: #008000;">&nbsp;*&nbsp;el&nbsp;comando</span>
+        </div>
+        <div><span
+            style="color: #008000;">&nbsp;&nbsp;&nbsp;chcp&nbsp;65001</span>
+        </div>
+        <div><span style="color: #008000;">&nbsp;*/</span></div>
+        <div><span style="color: #0000ff;">const</span>&nbsp;<span
+            style="color: #0070c1;">cons</span>&nbsp;=</div>
+        <div>&nbsp;&nbsp;<span style="color: #795e26;">require</span>(<span
+            style="color: #a31515;">"readline-sync"</span>);</div>
+        <div><span style="color: #0000ff;">let</span>&nbsp;<span
+            style="color: #001080;">número</span>&nbsp;=&nbsp;<span
+            style="color: #001080;">cons</span>.<span
+            style="color: #795e26;">questionInt</span>(</div>
+        <div>&nbsp;&nbsp;<span
+            style="color: #a31515;">"Introduce&nbsp;número:&nbsp;"</span>);
+        </div>
+        <div><span style="color: #af00db;">for</span>&nbsp;(<span
+            style="color: #0000ff;">let</span>&nbsp;<span
+            style="color: #001080;">i</span>&nbsp;=&nbsp;<span
+            style="color: #001080;">número</span>;</div>
+        <div>&nbsp;&nbsp;<span
+            style="color: #001080;">i</span>&nbsp;&gt;&nbsp;<span
+            style="color: #098658;">0</span>;</div>
+        <div>&nbsp;&nbsp;<span style="color: #001080;">i</span>--)&nbsp;{</div>
+        <div>&nbsp;&nbsp;<span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #001080;">i</span>);</div>
+        <div>}</div>
+        <div><span style="color: #001080;">console</span>.<span
+            style="color: #795e26;">log</span>(<span
+            style="color: #a31515;">"Adios."</span>);</div>
+      </div>
+    </muestra-codigo>
+    <div class="lectura">
+      <p>
+        <a href="https://replit.com/@GilbertoPachec1/forprog?v=1"
+          target="_blank">Pruébalo en Replit</a>
+      </p>
+    </div>
+    <mi-footer></mi-footer>
+  </layout-cajon>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="module" src="/js/config.js"></script>
+  <link rel="icon" sizes="32x32" href="/favicon.ico">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="stylesheet" href="/css/estilos.css">
+  <link rel="stylesheet" href="/lib/css/prueba.css">
+</head>
+<body>
+  <layout-cajon class="pres">
+    <mi-nav slot="nav"></mi-nav>
+    <h1>5. Ejecuta <code><span style="color: #001080;">console</span>.<span
+      style="color: #795e26;">log</span>(<span
+      style="color: #a31515;">"a"</span>);</code>
+    </h1>
+    <section id="código">
+      <h2>Código</h2>
+      <pre><code><span class="numero-1">1</span><span style="color: #0000ff;">let</span>&nbsp;<span
+        style="color: #001080;">a</span>&nbsp;=&nbsp;<span
+        style="color: #a31515;">"hola"</span>;
+<span class="numero-1">2</span><span style="color: #0000ff;">let</span>&nbsp;<span
+        style="color: #001080;">b</span>&nbsp;=&nbsp;<span
+        style="color: #a31515;">"adios"</span>;
+<span class="numero-1">3</span><span style="color: #001080;">console</span>.<span
+        style="color: #795e26;">log</span>(<span
+        style="color: #001080;">a</span>);
+<span class="numero-1">4</span><span style="color: #001080;">console</span>.<span
+        style="color: #795e26;">log</span>(<span
+        style="color: #001080;">b</span>);
+<span class="activo">5</span><span style="color: #001080;">console</span>.<span
+        style="color: #795e26;">log</span>(<span
+        style="color: #a31515;">"a"</span>);
+  <span style="color: #001080;">a</span>&nbsp;=&nbsp;<span
+        style="color: #a31515;">"gg"</span>;
+  <span style="color: #001080;">console</span>.<span
+        style="color: #795e26;">log</span>(<span
+        style="color: #001080;">a</span>);
+  <span style="color: #001080;">b</span>&nbsp;=&nbsp;<span
+        style="color: #001080;">a</span>;
+  <span style="color: #001080;">console</span>.<span
+        style="color: #795e26;">log</span>(<span
+        style="color: #001080;">b</span>);</code></pre>
+    </section>
+    <section id="variables">
+      <h2>Variables</h2>
+      <table class="frame">
+        <tr>
+          <th><span class="numero-1">1</span>a</th>
+          <td><span class="numero-1">1</span><span
+              style="color: #a31515;">"hola"</span></td>
+        </tr>
+        <tr>
+          <th><span class="numero-1">2</span>b</th>
+          <td><span class="numero-1">2</span><span
+              style="color: #a31515;">"adios"</span></td>
+        </tr>
+      </table>
+    </section>
+    <section id="expresiones">
+      <h2>Expresiones</h2>
+      <section>
+        <span class="numero-1">3</span>
+        <code class="language-kotlin"><span
+          style="color: #001080;">a &rarr; </span><span
+          style="color: #a31515;">"hola"</span></code>
+      </section>
+      <section>
+        <span class="numero-1">4</span>
+        <code class="language-kotlin"><span
+          style="color: #001080;">b &rarr; </span><span
+          style="color: #a31515;">"adios"</span></code>
+      </section>
+    </section>
+    <section id="consola">
+      <h2>Consola</h2>
+      <pre><samp><span class="numero-1">3</span>hola
+<span class="numero-1">4</span>adios
+<span class="activo">5</span>a</samp></pre>
+    </section>
+    <section id="explicación">
+      <h2>Explicación</h2>
+      <p>
+        Se ejecuta
+        <code class="language-kotlin"><span style="color: #001080;">console</span>.<span
+          style="color: #795e26;">log</span>(<span
+          style="color: #a31515;">"a"</span>);</code>
+      </p>
+      <p>
+        Se muestra el texto <samp>a</samp> en el siguiente renglón de la
+        consola.
+      </p>
+    </section>
+    <mi-footer></mi-footer>
+  </layout-cajon>
+</body>
+</html>

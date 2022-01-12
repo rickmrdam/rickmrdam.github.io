@@ -1,0 +1,12 @@
+<svg width="330" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g stroke-width="1" transform="matrix(1.8,0,0,1.8,-105,39)">
+  <path stroke="#55f" fill="#bff" d="m100,100 100,0 0,100 -100,0z"/>
+  <path stroke="#f80" fill="#ffa" d="m120,60 -20,40 -40,-20 20,-40zm0,0 80,40 40,-80 -80,-40z"/>
+  <path stroke="#000" fill="none" stroke-miterlimit="5" d="m100,100 20,-40 80,40zm18,-36 4,2 2,-4"/>
+  <g stroke="none" fill="#000" font-family="Times" font-size="20">
+   <text x="99" y="80">a</text>
+   <text x="155" y="75">b</text>
+   <text x="145" y="112">c</text>
+  </g>
+ </g>
+</svg>

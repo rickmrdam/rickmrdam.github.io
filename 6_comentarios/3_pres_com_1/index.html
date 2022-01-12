@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="module" src="/js/config.js"></script>
+  <link rel="icon" sizes="32x32" href="/favicon.ico">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="stylesheet" href="/css/estilos.css">
+  <script type="module" src="/lib/muestra-codigo.js"></script>
+</head>
+<body>
+  <layout-cajon class="portada">
+    <mi-nav slot="nav"></mi-nav>
+    <h1 class="presentación">
+      Prueba de escritorio con comentarios de una línea
+    </h1>
+    <div class="horizontal">
+      <muestra-codigo>
+        <div>
+          <div><span
+              style="color: #008000;">//&nbsp;Muestra&nbsp;"Hola&nbsp;pp".</span>
+          </div>
+          <div><span style="color: #001080;">console</span>.<span
+              style="color: #795e26;">log</span>(<span
+              style="color: #a31515;">"Hola"</span>,&nbsp;<span
+              style="color: #a31515;">"pp"</span>);</div>
+          <div><span style="color: #001080;">console</span>.<span
+              style="color: #795e26;">log</span>(<span
+              style="color: #a31515;">"tt"</span>);&nbsp;<span
+              style="color: #008000;">//&nbsp;Muestra&nbsp;"tt".</span></div>
+        </div>
+      </muestra-codigo>
+      <div>
+        <h3>Salida</h3>
+        <pre><samp>Hola pp
+tt</samp></pre>
+      </div>
+    </div>
+    <div class="lectura">
+      <p>
+        <a href="http://pythontutor.com/javascript.html#code=//%20Muestra%20%22Hola%20pp%22.%0Aconsole.log%28%22Hola%22,%20%22pp%22%29%3B%0Aconsole.log%28%22tt%22%29%3B%20//%20Muestra%20%22tt%22.&curInstr=0&mode=display&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D"
+          target=_blank>Depura el código en Python Tutor.</a>
+      </p>
+    </div>
+    <mi-footer></mi-footer>
+  </layout-cajon>
+</body>
+</html>
