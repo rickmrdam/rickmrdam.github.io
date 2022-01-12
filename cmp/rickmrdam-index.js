@@ -6,7 +6,7 @@ export class RICKMRAMIndex extends Diapositiva {
   super.connectedCallback();
   this.innerHTML = /* html */
    `<div class="lectura">
-   <h2>por Gilberto Paheco Gallegos</h2>
+   <h2>por Ricardo Armando Machorro Reyes</h2>
     <p>Contenido introductorio sobre Aplicaciones Móviles con Android</p>
     <mi-nav open></mi-nav>
    </div>`;
