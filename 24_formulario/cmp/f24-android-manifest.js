@@ -19,7 +19,7 @@ export class F24AndroidManifest extends Diapositiva {
       style="color: #0000ff;">"http://schemas.android.com/apk/res/android"</span>
    </div>
    <div>&nbsp; <span style="color: #ff0000;">package</span>=<span
-      style="color: #0000ff;">"io.github.gilpgdam.formulario"</span><span
+      style="color: #0000ff;">"io.github.rickmrdam.formulario"</span><span
       style="color: #800000;">&gt;</span></div><br>
    <div>&nbsp;<span style="color: #800000;">&lt;application</span></div>
    <div>&nbsp; &nbsp;<span
