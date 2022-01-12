@@ -6,7 +6,7 @@ export class E23MainActivity extends Diapositiva {
  connectedCallback() {
   super.connectedCallback();
   this.innerHTML = /* html */
-   `<h1>E. app/java/io.github.gilpgdm/MainActivity.kt</h1>
+   `<h1>E. app/java/io.github.rickmrdm/MainActivity.kt</h1>
    <muestra-codigo>
    <div>
    <div><span style="color: #0000ff;">package</span> io.github.rickmrdam</div><br>
