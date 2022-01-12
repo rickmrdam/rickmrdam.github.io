@@ -25,9 +25,9 @@ import "../8_if/cmp/if-print.js";
 import "../9_if_else/cmp/if-else-print.js";
 import { Diapositiva } from "../lib/Diapositiva.js";
 import "./b-sw.js";
-import "./gilpgam-index.js";
+import "./rickmrdam-index.js";
 
-export class GilPGAMPrint extends Diapositiva {
+export class RICKMRAMPrint extends Diapositiva {
  /** @override */
  connectedCallback() {
   super.connectedCallback();
@@ -179,4 +179,4 @@ export class GilPGAMPrint extends Diapositiva {
  }
 }
 
-customElements.define("gilpgam-print", GilPGAMPrint);
+customElements.define("rickmrdam-print", RICKMRAMPrint);
