@@ -1,6 +1,6 @@
 import { Diapositiva } from "../lib/Diapositiva.js";
 
-export class GilPGAMIndex extends Diapositiva {
+export class RICKMRAMIndex extends Diapositiva {
  /** @override */
  connectedCallback() {
   super.connectedCallback();
@@ -13,4 +13,4 @@ export class GilPGAMIndex extends Diapositiva {
  }
 }
 
-customElements.define("gilpgam-index", GilPGAMIndex);
+customElements.define("rickmrdam-index", RICKMRAMIndex);
