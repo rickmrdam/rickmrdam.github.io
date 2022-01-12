@@ -9,7 +9,7 @@ export class E23MainActivity extends Diapositiva {
    `<h1>E. app/java/io.github.gilpgdm/MainActivity.kt</h1>
    <muestra-codigo>
    <div>
-   <div><span style="color: #0000ff;">package</span> io.github.gilpgdam</div><br>
+   <div><span style="color: #0000ff;">package</span> io.github.rickmrdam</div><br>
    <div><span style="color: #0000ff;">import</span>
     androidx.appcompat.app.AppCompatActivity</div>
    <div><span style="color: #0000ff;">import</span> android.os.Bundle</div><br>
