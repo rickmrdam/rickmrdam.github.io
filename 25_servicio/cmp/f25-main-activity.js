@@ -6,10 +6,10 @@ export class F25MainActivity extends Diapositiva {
  connectedCallback() {
   super.connectedCallback();
   this.innerHTML = /* html */
-   `<h1>F. app/java/io.github.gilpgdm/MainActivity.kt</h1>
+   `<h1>F. app/java/io.github.rickmrdm/MainActivity.kt</h1>
    <muestra-codigo>
    <div>
-   <div><span style="color: #0000ff;">package</span> io.github.gilpgdam.servicio
+   <div><span style="color: #0000ff;">package</span> io.github.rickmrdam.servicio
    </div><br>
    <div><span style="color: #0000ff;">import</span> android.os.Bundle</div>
    <div><span style="color: #0000ff;">import</span> android.widget.TextView
@@ -39,7 +39,7 @@ export class F25MainActivity extends Diapositiva {
    <div>&nbsp; <span style="color: #267f99;">Thread</span> {</div>
    <div>&nbsp; &nbsp;<span style="color: #0000ff;">val</span> connection =</div>
    <div>&nbsp; &nbsp; <span style="color: #267f99;">URL</span>(<span
-      style="color: #a31515;">"https://holaphp.gilbertopachec3.repl.co/"</span>)
+      style="color: #a31515;">"https://holaphp.rickmrc3.repl.co/"</span>)
    </div>
    <div>&nbsp; &nbsp; &nbsp;.openConnection()</div>
    <div>&nbsp; &nbsp; &nbsp; as <span
