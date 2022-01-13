@@ -25,7 +25,7 @@ import "../8_if/cmp/if-print.js";
 import "../9_if_else/cmp/if-else-print.js";
 import { Diapositiva } from "../lib/Diapositiva.js";
 import "./b-sw.js";
-import "./rickmrdam-index.js";
+import "./rickmram-index.js";
 
 export class RICKMRAMPrint extends Diapositiva {
  /** @override */
@@ -171,12 +171,12 @@ export class RICKMRAMPrint extends Diapositiva {
      <formulario-print></formulario-print>
      <mi-footer></mi-footer>
     </section>
-    <section>
+  <!--  <section>
      <h1 class="presentación">25. servicio</h1>
      <servicio-print></servicio-print>
      <mi-footer></mi-footer>
-    </section>`;
+    </section>-->`;
  }
 }
 
-customElements.define("rickmrdam-print", RICKMRAMPrint);
+customElements.define("rickmram-print", RICKMRAMPrint);

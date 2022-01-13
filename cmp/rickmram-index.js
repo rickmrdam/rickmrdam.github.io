@@ -13,4 +13,4 @@ export class RICKMRAMIndex extends Diapositiva {
  }
 }
 
-customElements.define("rickmrdam-index", RICKMRAMIndex);
+customElements.define("rickmram-index", RICKMRAMIndex);
