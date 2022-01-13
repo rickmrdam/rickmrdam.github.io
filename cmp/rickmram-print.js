@@ -171,11 +171,11 @@ export class RICKMRAMPrint extends Diapositiva {
      <formulario-print></formulario-print>
      <mi-footer></mi-footer>
     </section>
-  <!--  <section>
+    <section>
      <h1 class="presentación">25. servicio</h1>
      <servicio-print></servicio-print>
      <mi-footer></mi-footer>
-    </section>-->`;
+    </section>`;
  }
 }
 
