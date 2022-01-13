@@ -5,7 +5,7 @@ import { muestraError, setTitle } from "../lib/utilHtml.js";
 
 registraServiceWorker();
 
-document.addEventListener("DOMContentLoaded", () => setTitle("gilpgdam"));
+document.addEventListener("DOMContentLoaded", () => setTitle("rickmrdam"));
 
 async function registraServiceWorker() {
   try {
