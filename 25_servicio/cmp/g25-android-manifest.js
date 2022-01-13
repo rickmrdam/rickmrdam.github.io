@@ -19,7 +19,7 @@ export class G25AndroidManifest extends Diapositiva {
       style="color: #0000ff;">"http://schemas.android.com/apk/res/android"</span>
    </div>
    <div>&nbsp; <span style="color: #ff0000;">package</span>=<span
-      style="color: #0000ff;">"io.github.gilpgdam.servicio"</span><span
+      style="color: #0000ff;">"io.github.rickmrdam.servicio"</span><span
       style="color: #800000;">&gt;</span></div><br>
    <div>&nbsp;<span style="color: #800000;">&lt;uses-permission</span> <span
       style="color: #ff0000;">android:name</span>=<span

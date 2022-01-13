@@ -33,7 +33,7 @@ export class ServicioContenido extends Diapositiva {
     </li>
     <li>
      <p>
-      <a href="/25_servicio/f_MainActivity.html">app/java/io.github.gilpgdm/MainActivity.kt</a>
+      <a href="/25_servicio/f_MainActivity.html">app/java/io.github.rickmrdm/MainActivity.kt</a>
      </p>
     </li>
     <li>

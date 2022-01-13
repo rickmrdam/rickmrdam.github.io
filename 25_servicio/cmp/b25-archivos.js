@@ -33,7 +33,7 @@ export class B25Archivos extends Diapositiva {
          java
          <ul>
           <li>
-           io.github.gilpgdam
+           io.github.rickmrdam
            <ul>
             <li>
              <a href="/25_servicio/f_MainActivity.html">
