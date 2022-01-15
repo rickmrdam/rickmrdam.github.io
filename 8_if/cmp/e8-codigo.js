@@ -32,7 +32,7 @@ export class E8Codigo extends Diapositiva {
    <div class="lectura noPrint">
     <p class="noPrint">
      <a target="_blank"
-       href="https://replit.com/@GilbertoPacheco/ifkt?v=1">
+       href="https://replit.com/@RicardoArmandoA/ifkt?v=1">
       Revísalo en Replit.
      </a>
     </p>
