@@ -63,21 +63,21 @@ export class A23Instrucciones extends Diapositiva {
           target="_blank" >Video sobre como ejecutar el proyecto.</a> -->
        </p>
       </li>
-      <li>
+     <!-- <li>
        <p>
         Necesitas una cuenta de email. Si no la tienes, crea una.
-      <!--  <a class="noPrint"
+        <a class="noPrint"
           href="https://drive.google.com/file/d/1ujeNp8TaHjqqRXl_TFT0omUGymmFWTLm/view?usp=sharing"
-          target="_blank">Video sobre como crear una cuenta de Google.</a> -->
+          target="_blank">Video sobre como crear una cuenta de Google.</a> 
        </p>
       </li>
       <li>
        <p>
         Crea una cuenta en
         <a target="_blank" href="https://github.com">https://github.com</a>.
-      <!--  <a class="noPrint"
+        <a class="noPrint"
           href="https://drive.google.com/file/d/18csn9i5ruy1M_Q2bfHUPr7sVA04AkpPD/view?usp=sharing"
-          target="_blank">Video sobre como crear una cuenta de GitHub.</a> -->
+          target="_blank">Video sobre como crear una cuenta de GitHub.</a> 
        </p>
        <p>
         Recuerda que cuando hayas creado tu proyecto, debes configurar Git en tu
@@ -105,11 +105,11 @@ export class A23Instrucciones extends Diapositiva {
       <li>
        <p>
         Sube tu proyecto a GitHub desde Android Studio.
-      <!--  <a class="noPrint"
+       <a class="noPrint"
           href="https://drive.google.com/file/d/1fIBM6EPWWXBEXxwYHopuLWDCODIwh5kD/view?usp=sharing"
-          target="_blank">Video sobre como subir el proyecto a GitHub.</a> -->
+          target="_blank">Video sobre como subir el proyecto a GitHub.</a> 
        </p>
-      </li>
+      </li> -->
      </ul>
     </div>`;
  }
