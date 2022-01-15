@@ -13,7 +13,7 @@ body {
 }
 
 body.print {
- visibility: visible;
+ visibility: hidden;
 }
 
 body.visible {
