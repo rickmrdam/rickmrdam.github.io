@@ -38,9 +38,9 @@ export class A23Instrucciones extends Diapositiva {
       <li>
        <p>
         Crear un proyecto para phone & tablet de tipo Empty Activity.
-        <a class="noPrint"
+      <!--  <a class="noPrint"
           href="https://drive.google.com/file/d/1F0BmnjcnSNPxiFoiHMV-eNlFVMvel4Dk/view?usp=sharing"
-          target="_blank" >Video sobre como crear el proyecto.</a>
+          target="_blank" >Video sobre como crear el proyecto.</a> -->
        </p>
       </li>
       <li>
@@ -49,35 +49,35 @@ export class A23Instrucciones extends Diapositiva {
         para desarrollo o en un emulador dentro de la computadora de desarrollo.
         En este último caso, si no tienes configurado un emulador, hay que
         crearlo.
-        <a class="noPrint"
+     <!--   <a class="noPrint"
           href="https://drive.google.com/file/d/1IuRdLgxPmCmHZyIgbL7R-jWO_Xqc4410/view?usp=sharing"
-          target="_blank" >Video sobre como crear el emulador.</a>
+          target="_blank" >Video sobre como crear el emulador.</a> -->
        </p>
       </li>
       <li>
        <p>
         Ejecuta el proyecto sobre el emulador de teléfono o el dispositivo
         real.
-        <a class="noPrint"
+      <!--  <a class="noPrint"
           href="https://drive.google.com/file/d/1bczuHcSEFmlq_f4K8LpewkbzayPNbf9f/view?usp=sharing"
-          target="_blank" >Video sobre como ejecutar el proyecto.</a>
+          target="_blank" >Video sobre como ejecutar el proyecto.</a> -->
        </p>
       </li>
       <li>
        <p>
         Necesitas una cuenta de email. Si no la tienes, crea una.
-        <a class="noPrint"
+      <!--  <a class="noPrint"
           href="https://drive.google.com/file/d/1ujeNp8TaHjqqRXl_TFT0omUGymmFWTLm/view?usp=sharing"
-          target="_blank">Video sobre como crear una cuenta de Google.</a>
+          target="_blank">Video sobre como crear una cuenta de Google.</a> -->
        </p>
       </li>
       <li>
        <p>
         Crea una cuenta en
         <a target="_blank" href="https://github.com">https://github.com</a>.
-        <a class="noPrint"
+      <!--  <a class="noPrint"
           href="https://drive.google.com/file/d/18csn9i5ruy1M_Q2bfHUPr7sVA04AkpPD/view?usp=sharing"
-          target="_blank">Video sobre como crear una cuenta de GitHub.</a>
+          target="_blank">Video sobre como crear una cuenta de GitHub.</a> -->
        </p>
        <p>
         Recuerda que cuando hayas creado tu proyecto, debes configurar Git en tu
@@ -105,9 +105,9 @@ export class A23Instrucciones extends Diapositiva {
       <li>
        <p>
         Sube tu proyecto a GitHub desde Android Studio.
-        <a class="noPrint"
+      <!--  <a class="noPrint"
           href="https://drive.google.com/file/d/1fIBM6EPWWXBEXxwYHopuLWDCODIwh5kD/view?usp=sharing"
-          target="_blank">Video sobre como subir el proyecto a GitHub.</a>
+          target="_blank">Video sobre como subir el proyecto a GitHub.</a> -->
        </p>
       </li>
      </ul>
