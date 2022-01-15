@@ -32,7 +32,7 @@ export class RICKMRAMPrint extends Diapositiva {
  connectedCallback() {
   super.connectedCallback();
   this.innerHTML = /* html */
-   `<gilpgam-index></gilpgam-index>
+   `<rickmram-index></rickmram-index>
     <mi-footer></mi-footer>
     <section>
      <h1 class="presentación">Software a Instalar</h1>
