@@ -161,7 +161,7 @@ export class RICKMRAMPrint extends Diapositiva {
      <herencia-print></herencia-print>
      <mi-footer></mi-footer>
     </section>
-    <section>
+   <!-- <section>
      <h1 class="presentación">23. Ejemplo de app Android</h1>
      <ejemplo-print></ejemplo-print>
      <mi-footer></mi-footer>
@@ -175,7 +175,7 @@ export class RICKMRAMPrint extends Diapositiva {
      <h1 class="presentación">25. servicio</h1>
      <servicio-print></servicio-print>
      <mi-footer></mi-footer>
-    </section>`;
+    </section> -->`;
  }
 }
 
