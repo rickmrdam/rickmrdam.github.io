@@ -240,7 +240,7 @@ export class MiNav extends HTMLElement {
          <herencia-contenido></herencia-contenido>
         </details>
        </li>
-       <li>
+      <!-- <li>
         <details>
          <summary>
           <h4><a href="/23_ejemplo/index.html">Ejemplo de app Android</a></h4>
@@ -263,7 +263,7 @@ export class MiNav extends HTMLElement {
          </summary>
          <servicio-contenido></servicio-contenido>
         </details>
-       </li>
+       </li>-->
       </ol>
      </li>
     </ul>
