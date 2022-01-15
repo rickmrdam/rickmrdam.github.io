@@ -26,7 +26,7 @@ export class B23Archivos extends Diapositiva {
          java
          <ul>
           <li>
-           io.github.gilpgdam
+           io.github.rickmrdam
            <ul>
             <li>
              <a href="/23_ejemplo/e_MainActivity.html">
