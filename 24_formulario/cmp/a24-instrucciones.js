@@ -37,9 +37,9 @@ export class A24Instrucciones extends Diapositiva {
       <li>
        <p>
         Crear un proyecto para phone & tablet de tipo Empty Activity.
-        <a class="noPrint"
+      <!--  <a class="noPrint"
           href="https://drive.google.com/file/d/1F0BmnjcnSNPxiFoiHMV-eNlFVMvel4Dk/view?usp=sharing"
-          target="_blank" >Video sobre como crear el proyecto.</a>
+          target="_blank" >Video sobre como crear el proyecto.</a> -->
        </p>
       </li>
       <li>
@@ -48,9 +48,9 @@ export class A24Instrucciones extends Diapositiva {
         para desarrollo o en un emulador dentro de la computadora de desarrollo.
         En este último caso, si no tienes configurado un emulador, hay que
         crearlo.
-        <a class="noPrint"
+     <!--   <a class="noPrint"
           href="https://drive.google.com/file/d/1IuRdLgxPmCmHZyIgbL7R-jWO_Xqc4410/view?usp=sharing"
-          target="_blank" >Video sobre como crear el emulador.</a>
+          target="_blank" >Video sobre como crear el emulador.</a> -->
        </p>
       </li>
       <li>
@@ -62,9 +62,9 @@ export class A24Instrucciones extends Diapositiva {
       <li>
        <p>
         Ejecuta el proyecto sobre el emulador de teléfono o el dispositivo real.
-        <a class="noPrint"
+      <!--  <a class="noPrint"
           href="https://drive.google.com/file/d/1bczuHcSEFmlq_f4K8LpewkbzayPNbf9f/view?usp=sharing"
-          target="_blank" >Video sobre como ejecutar el proyecto.</a>
+          target="_blank" >Video sobre como ejecutar el proyecto.</a> -->
        </p>
       </li>
      </ul>
