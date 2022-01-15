@@ -37,7 +37,7 @@ export class BCodigo extends Diapositiva {
    <div class="lectura noPrint">
     <p class="noPrint">
      <a target="_blank"
-       href="https://replit.com/@GilbertoPacheco/IfElseKt?v=1">
+       href="https://replit.com/@RicardoArmandoA/IfElseKt?v=1">
       Revísalo en Replit.
      </a>
     </p>
