@@ -10,7 +10,7 @@ export class E24MainActivity extends Diapositiva {
    <muestra-codigo>
    <div>
    <div><span style="color: #0000ff;">package</span>
-    io.github.gilpgdam.formulario</div><br>
+    io.github.rickmrdam.formulario</div><br>
    <div><span style="color: #0000ff;">import</span> android.os.Bundle</div>
    <div><span style="color: #0000ff;">import</span> android.widget.Button</div>
    <div><span style="color: #0000ff;">import</span> android.widget.EditText
