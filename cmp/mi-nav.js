@@ -39,7 +39,7 @@ export class MiNav extends HTMLElement {
      <li>
       <h3>Lecciones</h3>
       <ol>
-       <li>
+      <!-- <li>
         <details>
          <summary>
           <h4>
@@ -66,7 +66,7 @@ export class MiNav extends HTMLElement {
          </summary>
          <fundamentos-contenido></fundamentos-contenido>
         </details>
-       </li>
+       </li>  -->
        <li>
         <details>
          <summary>
