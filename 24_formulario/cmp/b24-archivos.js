@@ -26,7 +26,7 @@ export class B24Archivos extends Diapositiva {
          java
          <ul>
           <li>
-           io.github.gilpgdam
+           io.github.rickmrdam
            <ul>
             <li>
              <a href="/24_formulario/e_MainActivity.html">
