@@ -1,6 +1,6 @@
 /* Espera 11 minutos después de hacer los cambios en tu sitio, para después
  * actualizar este archivo. */
-const CACHE = "rickmrdam-1.15";
+const CACHE = "rickmrdam-1.20";
 
 /** Archivos requeridos para que la aplicación funcione fuera de línea. */
 const ARCHIVOS = [
