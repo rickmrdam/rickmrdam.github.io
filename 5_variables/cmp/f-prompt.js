@@ -35,28 +35,32 @@ export class FPrompt extends Diapositiva {
      <ul>
       <li>
        <p>
-        <a href="https://drive.google.com/file/d/1ujeNp8TaHjqqRXl_TFT0omUGymmFWTLm/view?usp=sharing"
-          target="_blank">Usa o crea una cuenta de Google.</a>
+       <!-- <a href="https://drive.google.com/file/d/1ujeNp8TaHjqqRXl_TFT0omUGymmFWTLm/view?usp=sharing"
+          target="_blank">Usa o crea una cuenta de Google.</a> -->
+          Usa o crea una cuenta de Google.
        </p>
       </li>
       <li>
        <p>
-        <a href="https://drive.google.com/file/d/1dmifWNqm_gRmQuMEe67HqKBYzzDTwEHt/view?usp=sharing"
+        <!--<a href="https://drive.google.com/file/d/1dmifWNqm_gRmQuMEe67HqKBYzzDTwEHt/view?usp=sharing"
           target="_blank">Crea una cuenta de Replit usando la cuenta de
-         Google.</a>
+         Google.</a>-->
+         Crea una cuenta de Replit usando la cuenta de Google.
        </p>
       </li>
       <li>
        <p>
-        <a href="https://drive.google.com/file/d/1XzA_10rCfmwqD0-CUYU45rmVyGbvTgxY/view?usp=sharing"
+        <!--<a href="https://drive.google.com/file/d/1XzA_10rCfmwqD0-CUYU45rmVyGbvTgxY/view?usp=sharing"
           target="_blank">Crea un proyecto <em>Kotlin</em> en Replit, edita los
-         archivos de este proyecto, pruébalo y crea su página de spotlight.</a>
+         archivos de este proyecto, pruébalo y crea su página de spotlight.</a>-->
+         Crea un proyecto <em>Kotlin</em> en Replit, edita los
+         archivos de este proyecto, pruébalo y crea su página de spotlight.
        </p>
       </li>
       <li>
         <p>
         <a target="_blank"
-          href="https://replit.com/@GilbertoPachec3/readline?v=1">
+          href="https://replit.com/@RicardoArmandoA/readline?v=1">
          Revísalo en Replit.
         </a>
        </p>
