@@ -48,7 +48,7 @@ export class AIdentificadores extends Diapositiva {
     </ul>
     <h2>Camel case</h2>
     <p>
-     Aunque no es obligatorio, normalmente en JavaScript los
+     Aunque no es obligatorio, normalmente en Kotlin los
      identificadores se escriben en <dfn>Camel Case</dfn>, donde las
      mayúsculas se usan para simular el inicio de una palabra. Por ejemplo:
     </p>
